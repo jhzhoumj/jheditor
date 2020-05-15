@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="18px" viewBox="0 0 34 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>输入框</title>
+    <desc>Created with Sketch.</desc>
+    <g id="阅卷/报告-雅思" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="阅卷-写作批注状态" transform="translate(-824.000000, -549.000000)" fill="#333333" fill-rule="nonzero" stroke="#333333" stroke-width="0.5">
+            <g id="输入框" transform="translate(825.000000, 550.000000)">
+                <path d="M30.875,0 L1.125,0 C0.503125,0 0,0.503125 0,1.125 L0,14.875 C0,15.496875 0.503125,16 1.125,16 L30.875,16 C31.496875,16 32,15.496875 32,14.875 L32,1.125 C32,0.503125 31.496875,0 30.875,0 Z M30.875,14.875 L1.125,14.875 L1.125,1.125 L30.875,1.125 L30.875,14.875 Z M4.21875,12.375 C4.528125,12.375 4.78125,12.121875 4.78125,11.8125 L4.78125,4.1875 C4.78125,3.878125 4.528125,3.625 4.21875,3.625 C3.909375,3.625 3.65625,3.878125 3.65625,4.1875 L3.65625,11.8125 C3.65625,12.121875 3.909375,12.375 4.21875,12.375 Z" id="形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>

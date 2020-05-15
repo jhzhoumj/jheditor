@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "@ckeditor/ckeditor5-basic-styles": "^15.0.0",
+    "@ckeditor/ckeditor5-ckfinder": "^15.0.0",
+    "@ckeditor/ckeditor5-core": "^15.0.0",
+    "@ckeditor/ckeditor5-dev-utils": "^12.0.5",
+    "@ckeditor/ckeditor5-editor-classic": "^15.0.0",
+    "@ckeditor/ckeditor5-engine": "^15.0.0",
+    "@ckeditor/ckeditor5-essentials": "^15.0.0",
+    "@ckeditor/ckeditor5-font": "^15.0.0",
+    "@ckeditor/ckeditor5-highlight": "^15.0.0",
+    "@ckeditor/ckeditor5-image": "^15.0.0",
+    "@ckeditor/ckeditor5-paragraph": "^15.0.0",
+    "@ckeditor/ckeditor5-theme-lark": "^15.0.0",
+    "@ckeditor/ckeditor5-typing": "^15.0.0",
+    "@ckeditor/ckeditor5-ui": "^15.0.0",
+    "@ckeditor/ckeditor5-upload": "^15.0.0",
+    "@ckeditor/ckeditor5-watchdog": "^15.0.0",
+    "@ckeditor/ckeditor5-widget": "^15.0.0",
+    "axios": "^0.19.0",
+    "http-proxy-middleware": "^0.20.0",
+    "pkg-dir": "^4.2.0",
+    "postcss-loader": "^3.0.0",
+    "raw-loader": "^3.1.0",
+    "resolve-from": "^5.0.0",
+    "style-loader": "^1.0.0",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  },
+  "scripts": {
+    "dev": "webpack --mode development & webpack-dev-server --open  --mode development",
+    "build": "webpack --mode production"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "babel-loader": "^8.0.6",
+    "clean-webpack-plugin": "^3.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "terser-webpack-plugin": "^2.2.2",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^4.41.2",
+    "webpack-dev-server": "^3.9.0"
+  }
+}
